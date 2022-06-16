@@ -1,4 +1,4 @@
-module github.com/AikoXrayR-Project/XrayR
+module github.com/AikoCute-Offical/XrayR
 
 go 1.18
 
