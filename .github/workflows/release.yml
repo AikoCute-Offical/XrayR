@@ -26,7 +26,7 @@ jobs:
     strategy:
       matrix:
         # Include amd64 on all platforms.
-        goos: [windows, freebsd, linux, dragonfly, darwin]
+        goos: [windows, freebsd, linux, dragonfly, darwin, android]
         goarch: [amd64, 386]
         exclude:
           # Exclude i386 on darwin and dragonfly.
@@ -93,6 +93,16 @@ jobs:
           # BEGIN S390X
           - goos: linux
             goarch: s390x
+          - goos: ios
+            goarch: amd64
+          - goos: aix
+            goarch: ppc64
+          - goos: ios
+            goarch: arm64
+          - goos: js
+            goarhc: wasm
+          - goos: solaris
+            goarch: amd64
           # END S390X
           # END Other architectures
       fail-fast: false
