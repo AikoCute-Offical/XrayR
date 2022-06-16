@@ -29,7 +29,6 @@ jobs:
         goos: [windows, freebsd, linux, dragonfly, darwin]
         goarch: [amd64, 386]
         exclude:
-
         - goos: aix
           goarch: ppc64
         - goos: adroid
