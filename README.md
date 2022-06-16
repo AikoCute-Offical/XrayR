@@ -7,11 +7,11 @@ XrayR AikoCute Projects
 
 [![](https://img.shields.io/badge/Telegram-group-green?style=flat-square)](https://t.me/aikocutehotme)
 [![](https://img.shields.io/badge/Telegram-channel-blue?style=flat-square)](https://t.me/AikoCute_Support)
-[![](https://img.shields.io/github/downloads/AikoCute-Offical/XrayR/total.svg?style=flat-square)](https://github.com/AikoCute/XrayR/releases)
-[![](https://img.shields.io/github/v/release/AikoCute-Offical/XrayR?style=flat-square)](https://github.com/AikoCute/XrayR/releases)
+[![](https://img.shields.io/github/downloads/AikoXrayR-Project/XrayR/total.svg?style=flat-square)](https://github.com/AikoCute/XrayR/releases)
+[![](https://img.shields.io/github/v/release/AikoXrayR-Project/XrayR?style=flat-square)](https://github.com/AikoCute/XrayR/releases)
 [![docker](https://img.shields.io/docker/v/aikocute/xrayr?label=Docker%20image&sort=semver)](https://hub.docker.com/r/aikocute/xrayr)
 [![Build and Release](https://github.com/AikoCute/XrayR/actions/workflows/release.yml/badge.svg)](https://github.com/AikoCute/XrayR/actions/workflows/release.yml)
-<img alt="visited" src="https://badges.pufler.dev/visits/AikoCute-Offical/XrayR"/>
+<img alt="visited" src="https://badges.pufler.dev/visits/AikoXrayR-Project/XrayR"/>
 </div>
 
 
@@ -66,7 +66,7 @@ Dự án này chỉ mang tính chất học tập, phát triển và bảo trì 
 
 ## Cài đặt phần mềm - release
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/AikoCute-Offical/AikoXrayR-install/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/AikoXrayR-Project/AikoXrayR-install/master/install.sh)
 ```
 ### Một cài đặt chính - docker
 ```
