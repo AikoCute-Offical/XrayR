@@ -26,12 +26,14 @@ jobs:
     strategy:
       matrix:
         # Include amd64 on all platforms.
-        goos: [windows, freebsd, linux, dragonfly, darwin, android]
+        goos: [windows, freebsd, linux, dragonfly, darwin]
         goarch: [amd64, 386]
         exclude:
 
         - goos: aix
           goarch: ppc64
+        - goos: adroid
+          goarch: amd64
         - goos: android
           goarch: arm
         - goos: android
