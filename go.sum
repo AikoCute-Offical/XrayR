@@ -794,8 +794,8 @@ github.com/xeipuuv/gojsonschema v1.2.0/go.mod h1:anYRn/JVcOK2ZgGU+IjEV4nwlhoK5sQ
 github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2/go.mod h1:UETIi67q53MR2AWcXfiuqkDkRtnGDLqkBTpCHuJHxtU=
 github.com/xtls/go v0.0.0-20210920065950-d4af136d3672 h1:4mkzGhKqt3JO1BWYjtD3iRFyAx4ow67hmSqOcGjuxqQ=
 github.com/xtls/go v0.0.0-20210920065950-d4af136d3672/go.mod h1:YGGVbz9cOxyKFUmhW7LGaLZaMA0cPlHJinvAmVxEMSU=
-github.com/xtls/xray-core v1.5.7 h1:xQqUpRtzVHL/to2sDmvgn9GelD0jIwC0I8B36hbDgDo=
-github.com/xtls/xray-core v1.5.7/go.mod h1:H4q5qoCwtsYeF06Zsb0tk8oV8UuaQ9NdnOaPv49Cj7I=
+github.com/AikoCute-Offical/Aiko-Core v1.5.7 h1:xQqUpRtzVHL/to2sDmvgn9GelD0jIwC0I8B36hbDgDo=
+github.com/AikoCute-Offical/Aiko-Core v1.5.7/go.mod h1:H4q5qoCwtsYeF06Zsb0tk8oV8UuaQ9NdnOaPv49Cj7I=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=

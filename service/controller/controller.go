@@ -7,12 +7,12 @@ import (
 	"reflect"
 	"time"
 
+	"github.com/AikoCute-Offical/Aiko-Core/common/protocol"
+	"github.com/AikoCute-Offical/Aiko-Core/common/task"
+	"github.com/AikoCute-Offical/Aiko-Core/core"
 	"github.com/AikoXrayR-Project/XrayR/api"
 	"github.com/AikoXrayR-Project/XrayR/common/legocmd"
 	"github.com/AikoXrayR-Project/XrayR/common/serverstatus"
-	"github.com/xtls/xray-core/common/protocol"
-	"github.com/xtls/xray-core/common/task"
-	"github.com/xtls/xray-core/core"
 )
 
 type Controller struct {

@@ -8,6 +8,11 @@ import (
 
 	"github.com/AikoXrayR-Project/XrayR/app/mydispatcher"
 
+	"github.com/AikoCute-Offical/Aiko-Core/app/proxyman"
+	"github.com/AikoCute-Offical/Aiko-Core/app/stats"
+	"github.com/AikoCute-Offical/Aiko-Core/common/serial"
+	"github.com/AikoCute-Offical/Aiko-Core/core"
+	"github.com/AikoCute-Offical/Aiko-Core/infra/conf"
 	"github.com/AikoXrayR-Project/XrayR/api"
 	"github.com/AikoXrayR-Project/XrayR/api/pmpanel"
 	"github.com/AikoXrayR-Project/XrayR/api/proxypanel"
@@ -18,11 +23,6 @@ import (
 	"github.com/AikoXrayR-Project/XrayR/service/controller"
 	"github.com/imdario/mergo"
 	"github.com/r3labs/diff/v2"
-	"github.com/xtls/xray-core/app/proxyman"
-	"github.com/xtls/xray-core/app/stats"
-	"github.com/xtls/xray-core/common/serial"
-	"github.com/xtls/xray-core/core"
-	"github.com/xtls/xray-core/infra/conf"
 )
 
 // Panel Structure

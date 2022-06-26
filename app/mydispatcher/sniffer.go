@@ -3,10 +3,10 @@ package mydispatcher
 import (
 	"context"
 
-	"github.com/xtls/xray-core/common"
-	"github.com/xtls/xray-core/common/protocol/bittorrent"
-	"github.com/xtls/xray-core/common/protocol/http"
-	"github.com/xtls/xray-core/common/protocol/tls"
+	"github.com/AikoCute-Offical/Aiko-Core/common"
+	"github.com/AikoCute-Offical/Aiko-Core/common/protocol/bittorrent"
+	"github.com/AikoCute-Offical/Aiko-Core/common/protocol/http"
+	"github.com/AikoCute-Offical/Aiko-Core/common/protocol/tls"
 )
 
 type SniffResult interface {

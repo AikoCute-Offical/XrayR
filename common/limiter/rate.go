@@ -3,9 +3,9 @@ package limiter
 import (
 	"io"
 
+	"github.com/AikoCute-Offical/Aiko-Core/common"
+	"github.com/AikoCute-Offical/Aiko-Core/common/buf"
 	"github.com/juju/ratelimit"
-	"github.com/xtls/xray-core/common"
-	"github.com/xtls/xray-core/common/buf"
 )
 
 type Writer struct {

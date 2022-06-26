@@ -8,12 +8,12 @@ import (
 	"syscall"
 	"testing"
 
+	"github.com/AikoCute-Offical/Aiko-Core/core"
+	"github.com/AikoCute-Offical/Aiko-Core/infra/conf"
 	"github.com/AikoCute-Offical/XrayR/api"
 	"github.com/AikoCute-Offical/XrayR/api/sspanel"
 	_ "github.com/AikoCute-Offical/XrayR/main/distro/all"
 	. "github.com/AikoCute-Offical/XrayR/service/controller"
-	"github.com/xtls/xray-core/core"
-	"github.com/xtls/xray-core/infra/conf"
 )
 
 func TestController(t *testing.T) {
